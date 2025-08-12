@@ -1,6 +1,6 @@
 # iyyappan_portfolio
 
-A new Flutter project.
+Flutter web portfolio for Iyyappan M
 
 ## Getting Started
 
